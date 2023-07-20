@@ -1,6 +1,10 @@
 <h1 align="Left">Hi 👋, I'm Patryk</h1>
 <h3 align="Left">A passionate Embedded developer</h3>
 
+I am a student of the electrical engineering faculty with a specialization in Embedded systems. I discovered that working with IT systems brings me joy every time I learn something new. 
+
+
+
 - 🌱 I’m currently learning [**Avalonia**](https://avaloniaui.net) and [**How bootloaders work**](https://www.udemy.com/course/stm32f4-arm-cortex-mx-custom-bootloader-development/)
 
 - 📫 How to reach me **patryk.mielech@icloud.com**
