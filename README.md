@@ -4,7 +4,7 @@
 I am currently studying Embedded Systems for a master's degree at Warsaw University of Technology. I have been encouraged to continue my development in this direction because of the nontrivial solutions to problems arising from both the hardware and the software side. I've discovered that working with IT systems brings me joy every time I learn something new. 
 
 
-- 🌱 I’m currently learning [**Machine learning & MediaPipe library**](https://developers.google.com/mediapipe) and [**POSIX threading**](https://www.man7.org/linux/man-pages/man7/pthreads.7.html)
+- 🌱 I’m currently learning [**ASP.NET**](https://dotnet.microsoft.com/en-us/apps/aspnet) and [**SQL**](https://sqldocs.org/sqlite/sqlite-show-tables/)
 
 - 📫 How to reach me **patryk.mielech@icloud.com**
 
